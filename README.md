@@ -1,5 +1,6 @@
-# EGB273-Accommadation Solver (!!warning!! code is trash, don't @me)
-### Just copy and paste whole python code and run it, idk what I am doing here lol
+# EGB273-Accommadation Solver
+### This code is dogshit bruz, don't @me. Just copy and paste whole python code and run it. 
+
 ---
 
 # Accommodation Analysis
