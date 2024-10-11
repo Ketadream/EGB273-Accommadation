@@ -1,6 +1,4 @@
-# EGB273-Accommadation
-:
-
+# EGB273-Accommadation Solver (!!warning!! code is trash, don't @me)
 ---
 
 # Accommodation Analysis
@@ -30,7 +28,7 @@ This Python script performs an analysis of accommodation options based on a set 
     
 
 ## Usage
-To run the script, ensure you have Python installed along with any necessary dependencies. Place your JSON dataset in the appropriate directory and execute the script. The output will display a comprehensive comparison of all accommodation options based on the defined criteria.
+Copy and paste all code into Visual Studio. Run that shit. 
 
 ---
 
